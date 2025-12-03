@@ -9,7 +9,7 @@ To keep things clean and well-structured, the concepts are organized into separa
 A deep comparison between two powerful frameworks used to build LLM and agentic applications.
 
 🔗 **Read here:**  
-[LangChain vs LangGraph](LangChain vs LangGraph.md)
+[LangChain vs LangGraph]([LangChain vs LangGraph.md](https://github.com/GitMeP/LangChain-VS-LangGraph/blob/57db4596afb43a5cf52ae38ae8d2450ff3fd361c/LangChain%20vs%20LangGraph.md))
 
 ---
 
