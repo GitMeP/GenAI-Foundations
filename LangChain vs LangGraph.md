@@ -64,6 +64,10 @@ It might use:
 - Passing prompts to a separate LLM  
 - Generating the final response
 
+<p align="center">
+  <img src="https://github.com/GitMeP/GenAI-Foundations/blob/aa28cce0c24e89aabebb7bfa151ba8a986c5c1e3/images/Sequential.png" width="600">
+</p>
+
 ---
 
 ## LangGraph
@@ -92,6 +96,10 @@ It supports **backtracking, loops, iterative refinement**, and more.
 - Supports **human-in-the-loop** workflows  
 
 This makes LangGraph ideal for building advanced **Agentic AI systems**.
+
+<p align="center">
+  <img src="https://github.com/GitMeP/GenAI-Foundations/blob/aa28cce0c24e89aabebb7bfa151ba8a986c5c1e3/images/Agentic.png" width="700">
+</p>
 
 ---
 
